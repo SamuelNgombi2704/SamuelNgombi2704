@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a UI/UX Designer and Full Stack Developer with
   - Open source projects that aim to solve real-world problems.
 
 - 📫 **How to reach me**:
-  - **Email**: [samuel.ngombi@example.com](mailto:samuel.ngombi@example.com)
+  - **Email**: [samuel.ngombi@example.com](mailto:samuelngombi.work@gmail.com)
   - **LinkedIn**: [linkedin.com/in/samuelngombi](https://www.linkedin.com/in/samuelngombi)
   - **Twitter**: [@SamuelNgombi2704](https://twitter.com/SamuelNgombi2704)
 
