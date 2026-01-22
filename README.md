@@ -1,6 +1,6 @@
 ## Hi there, I'm Samuel Ngombi
 
-Welcome to my GitHub profile. I’m a UI/UX Designer and Full Stack Developer with a strong focus on delivering elegant, user-centered solutions. Here's a brief overview of my background and interests:
+Welcome to my GitHub profile. I’m a UI/UX Designer Full Stack Developer and Data Analyst with a strong focus on delivering elegant, user-centered solutions. Here's a brief overview of my background and interests:
 
 ### About Me
 
@@ -42,7 +42,7 @@ Feel free to explore my repositories and connect if you're interested in collabo
 
 ## Bonjour, je suis Samuel Ngombi
 
-Bienvenue sur mon profil GitHub. Je suis Designer UI/UX et Développeur Full Stack, passionné par la création de solutions élégantes et centrées sur l’utilisateur. Voici une présentation succincte de mon parcours et de mes domaines d’intérêt :
+Bienvenue sur mon profil GitHub. Je suis Designer UI/UX, Développeur Full Stack et Data Analyst, passionné par la création de solutions élégantes et centrées sur l’utilisateur. Voici une présentation succincte de mon parcours et de mes domaines d’intérêt :
 
 ### À propos de moi
 
