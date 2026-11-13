@@ -6,7 +6,7 @@ I build software that solves practical problems — from web applications and ba
 
 My focus is on creating reliable, maintainable applications that connect good engineering with real business needs.
 
-[Portfolio](https://samuel-ngombi-portfolio.fr) · [LinkedIn](https://www.linkedin.com/in/samuel-ngombi/) · [Email](mailto:samuelngombi.work@gmail.com)
+· [Email](mailto:samuelngombi.work@gmail.com)
 
 ---
 
